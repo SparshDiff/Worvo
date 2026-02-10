@@ -16,7 +16,6 @@ data.txt
 build/
 dist/
 
-client/
 temp/
 .vscode/
 Documnting.txt
